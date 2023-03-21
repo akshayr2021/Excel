@@ -20,5 +20,5 @@ This repo consists of two excel files:
   e. Create function to check if a particular value is male/female and assign 0/1 values
   f. Open word/ppt application from vba
   
-NOTE: Train dataset downloaded from Kaggle
+NOTE: Dataset downloaded from Kaggle (train data)
 https://www.kaggle.com/c/titanic/data?select=train.csv
