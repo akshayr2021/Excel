@@ -12,4 +12,13 @@ This repo consists of two excel files:
   g. Charts
   h. Pivot tables
 
-2. VBA basics
+2. VBA basics (train.xlsm - Macro enabled) -> Covers basic VBA functionalites listed below.
+  a. Insert 10 numbers in an excel sheet
+  b. Insert n numbers in an excel sheet (Input Box)
+  c. Insert numbers diagonally (Difficult to perform in Excel)
+  d. Text data processing: Split first name & last name from name column
+  e. Create function to check if a particular value is male/female and assign 0/1 values
+  f. Open word/ppt application from vba
+  
+NOTE: Train dataset downloaded from Kaggle
+https://www.kaggle.com/c/titanic/data?select=train.csv
